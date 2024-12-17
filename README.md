@@ -51,4 +51,6 @@ Concept, Design, and Logic: Abdullah Nizar
 
 Code Implementation: Generated with the assistance of ChatGPT, following Abdullah Nizar's vision, logic, and original ideas.
 
+*even this description is written by chatgpt. im a pretty open-minded person. hahahah
+
 ---
